@@ -33,6 +33,6 @@ int main()
         std::cout << "\nYou Pass\n";
     else
         std::cout << "\nYou Failed\n";
-    std::cout << "Your Score: " << mA << "%\n";
+    std::cout << "Your Score: (" << mA << "%)\n";
 }
 
